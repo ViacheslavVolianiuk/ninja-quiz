@@ -1,2 +1,2 @@
 # ninja-quiz
-https://viacheslavvolyanuk.github.io/ninja-quiz/
+https://viacheslavvolianiuk.github.io/ninja-quiz/
